@@ -12,7 +12,7 @@ Just add the reference in your project, then some code like this:
 				<SysMenu:SysMenuItem CommandText="About" CmdId="3" Index="6" MenuFlags="MF_BYPOSITION" />
 			</SysMenu:SysMenuControl.SysMenuItems>
 		</SysMenu:SysMenuControl>
-
+```
 and 
 
 ![](http://192.243.125.218/images/wpf_sm_a.jpg)
