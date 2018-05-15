@@ -4,7 +4,7 @@ System menu for wpf projects
 Simple system menu for WPF projects.
 
 Just add the reference in your project, then some code like this:
-
+```xml
     		<SysMenu:SysMenuControl HorizontalAlignment="Left" Height="24" Margin="-2,288,0,-42" VerticalAlignment="Top" Width="100">
 			<SysMenu:SysMenuControl.SysMenuItems>
 				<SysMenu:SysMenuItem CommandText="" CmdId="1" Index="5" MenuFlags="MF_BYPOSITION, MF_SEPARATOR"/>
