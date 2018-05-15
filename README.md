@@ -15,4 +15,4 @@ Just add the reference in your project, then some code like this:
 ```
 and 
 <br/>
-<img src="https://user-images.githubusercontent.com/1889961/40048449-ef5099f4-583a-11e8-8c40-db81b1c5263f.png" width="70%"></img> <br/>
+![main window](https://user-images.githubusercontent.com/1889961/40053313-74e5c05e-5849-11e8-8eb1-af17546eb444.png)
