@@ -1,7 +1,7 @@
 # WpfSysMenu
 
-Simple system menu for WPF projects.
-https://www.nuget.org/packages/Agitech.Wpf.SysMenu/
+Simple system menu for WPF projects.<br/>
+https://www.nuget.org/packages/Agitech.Wpf.SysMenu/ <br/>
 Just add the reference in your project, then some code like this:
 
 ```xml
